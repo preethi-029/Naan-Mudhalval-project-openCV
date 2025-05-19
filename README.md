@@ -9,10 +9,12 @@ Description:
 estimate the number of people and their spatial distribution in a given area, 
 enabling applications in surveillance, public safety, event management, and smart 
 cities.
+
 Input:
   1. Images or Video Streams 
        From CCTV, drone footage, or static surveillance cameras in public 
      areas like stadiums, malls, streets, or airports.
+
 Output:
   1. Crowd Count 
        Total estimated number of people in the scene (e.g., "Estimated 

@@ -1,6 +1,6 @@
 # Naan Mudhalvan OpenCV Projects
 
-## Peojwct Overview
+## Project Overview
 
 ### 1.Crowd Counting and Density Estimation System
 
